@@ -1,0 +1,64 @@
+2025-12-08 21:00:01,517 | INFO | _universal.py:511 | Request URL: 'https://jjwearsearch.search.windows.net/indexes('wear-reports')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=minimal'
+    'x-ms-client-request-id': 'c3258c8b-d44a-11f0-9f04-24fbe3c91b3b'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.10 (Windows-11-10.0.26100-SP0)'
+No body was attached to the request
+2025-12-08 21:00:03,796 | INFO | _universal.py:554 | Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'ETag': '"0x8DE30C091B69F2B"'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'c3258c8b-d44a-11f0-9f04-24fbe3c91b3b'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 08 Dec 2025 15:30:03 GMT'
+2025-12-08 21:02:17,525 | INFO | _universal.py:511 | Request URL: 'https://jjwearsearch.search.windows.net/indexes('wear-reports')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=minimal'
+    'x-ms-client-request-id': '1436bf02-d44b-11f0-ae80-24fbe3c91b3b'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.10 (Windows-11-10.0.26100-SP0)'
+No body was attached to the request
+2025-12-08 21:02:19,143 | INFO | _universal.py:554 | Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'ETag': '"0x8DE30C091B69F2B"'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '1436bf02-d44b-11f0-ae80-24fbe3c91b3b'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 08 Dec 2025 15:32:19 GMT'
+2025-12-08 21:04:42,297 | INFO | _universal.py:508 | Request URL: 'https://jjwearsearch.search.windows.net/indexes('wear-reports')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '42299'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '6a814165-d44b-11f0-aefd-24fbe3c91b3b'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.10 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-12-08 21:04:45,199 | INFO | _universal.py:554 | Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '6a814165-d44b-11f0-aefd-24fbe3c91b3b'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 08 Dec 2025 15:34:45 GMT'

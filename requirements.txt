@@ -1,0 +1,55 @@
+# Core web framework and API
+fastapi
+uvicorn
+
+# Data validation and settings
+pydantic
+python-dotenv
+
+# Async HTTP client
+aiohttp
+aioodbc
+
+# Azure SDKs
+azure-core
+azure-search-documents
+azure-ai-documentintelligence
+azure-storage-blob
+azure-identity
+
+# SQLAlchemy for async DB
+sqlalchemy
+
+# Logging
+
+# Test and evaluation
+pytest
+ragas
+datasets
+openai
+langchain-openai
+
+# Other utilities
+python-multipart
+
+# Used in test.py
+ragas
+datasets
+openai
+langchain-openai
+
+# If you use DocumentIntelligenceClient
+azure-ai-documentintelligence
+
+# If you use ContentSafetyClient
+azure-ai-contentsafety
+
+# If you use plotly in evaluation scripts
+plotly
+
+# If you use pandas
+pandas
+
+# If you use logging, os, re, uuid, asyncio, json, math, typing, contextlib, collections, urllib.parse
+# (these are standard library, do not need to be listed)
+ragas
