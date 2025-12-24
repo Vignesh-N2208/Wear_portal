@@ -1,6 +1,6 @@
 # Core web framework and API
 fastapi
-uvicorn
+uvicorn[standard]
 gunicorn
 # Data validation and settings
 pydantic
@@ -54,3 +54,4 @@ pandas
 # (these are standard library, do not need to be listed)
 
 ragas
+
