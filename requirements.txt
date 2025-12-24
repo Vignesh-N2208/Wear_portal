@@ -1,7 +1,7 @@
 # Core web framework and API
 fastapi
 uvicorn
-
+gunicorn
 # Data validation and settings
 pydantic
 python-dotenv
@@ -52,4 +52,5 @@ pandas
 
 # If you use logging, os, re, uuid, asyncio, json, math, typing, contextlib, collections, urllib.parse
 # (these are standard library, do not need to be listed)
+
 ragas
